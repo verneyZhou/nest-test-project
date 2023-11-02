@@ -18,3 +18,10 @@ https://docs.nestjs.com/
 - nest new project-name
 
 - npm run start
+
+
+
+
+### ADD
+
+- main分支提交，git actions自动部署
